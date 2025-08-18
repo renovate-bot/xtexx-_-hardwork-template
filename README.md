@@ -1,11 +1,5 @@
 # Hardwork Template
 
-> Your GitHub profile full of green, now and past
+Welcome, this is a repository generated from [xtexChooser/hardwork-template](https://github.com/xtexChooser/hardwork-template) to keep daily commits.
 
-Let you commit daily using [hardwork-action](https://github.com/xtexChooser/hardwork-action).
-
-## Using
-
-1. Create a new repository from this template([click here](https://github.com/xtexChooser/hardwork-template/generate))
-2. Edit `.github/workflows/commit.yml` to use your username and email
-3. **Enjoy!**
+The action works now! Please remember to follow up the action when [hardwork-action](https://github.com/xtexChooser/hardwork-action) is updated!
